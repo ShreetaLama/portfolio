@@ -1,0 +1,8 @@
+.breadcrumb{
+    background: none;
+    transform: translate(350px,-135px);
+}
+.page-title{
+    transform: translate(100px,-110px);
+    color: white;
+}
